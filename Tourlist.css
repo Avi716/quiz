@@ -1,0 +1,26 @@
+.png{
+    width: 60%;
+    height: 100px;
+    margin-left: 150px!important;
+}
+.card{
+    width:100%;
+    padding: 0px!important;
+   
+}
+.over{
+    margin-left: 100px!important; 
+}
+.flow{
+    background-color: rgb(130, 199, 61);
+}
+.end{
+    background-color: darkolivegreen;
+   margin: 0px!important;
+}
+.home{
+    
+    background-image: url("D:/images/project 1/boat2.jpg");
+    background-position:center;
+    height: 500px;
+}
